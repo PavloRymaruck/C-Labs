@@ -1,0 +1,10 @@
+D:\Univer\3 kurs\C#\Laba 1\CSharpLab\TextEditor\TextEditor\bin\Debug\TextEditor.exe.config
+D:\Univer\3 kurs\C#\Laba 1\CSharpLab\TextEditor\TextEditor\bin\Debug\TextEditor.exe
+D:\Univer\3 kurs\C#\Laba 1\CSharpLab\TextEditor\TextEditor\bin\Debug\TextEditor.pdb
+D:\Univer\3 kurs\C#\Laba 1\CSharpLab\TextEditor\TextEditor\obj\Debug\TextEditor.csproj.AssemblyReference.cache
+D:\Univer\3 kurs\C#\Laba 1\CSharpLab\TextEditor\TextEditor\obj\Debug\TextEditor.Form1.resources
+D:\Univer\3 kurs\C#\Laba 1\CSharpLab\TextEditor\TextEditor\obj\Debug\TextEditor.Properties.Resources.resources
+D:\Univer\3 kurs\C#\Laba 1\CSharpLab\TextEditor\TextEditor\obj\Debug\TextEditor.csproj.GenerateResource.cache
+D:\Univer\3 kurs\C#\Laba 1\CSharpLab\TextEditor\TextEditor\obj\Debug\TextEditor.csproj.CoreCompileInputs.cache
+D:\Univer\3 kurs\C#\Laba 1\CSharpLab\TextEditor\TextEditor\obj\Debug\TextEditor.exe
+D:\Univer\3 kurs\C#\Laba 1\CSharpLab\TextEditor\TextEditor\obj\Debug\TextEditor.pdb
